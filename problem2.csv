@@ -1,4 +1,8 @@
-passenger_id,name,sex,age,role,ship,destination,clan_rmandy,Nidaros,,2.7,1,0,0
+passenger_id,name,sex,age,role,ship,destination,clan_origin,armor,provisions_kg,family_aboard,prior_voyages,survived
+1,Finn Ulfsson,Male,25.0,Thrall,Bison,Lindisfarne,Borg,None,2.0,3,0,0
+2,Styrbjörn Bjørnsson,Male,41.0,Karl,Ormen Lange,Normandy,Kaupang,None,4.3,0,2,0
+3,Bjørn Sigurdsson,Male,29.0,Hirdman,Sjøulven,Iceland,Borg,Chainmail,132.2,1,3,1
+4,Runa Bjørnsdóttir,Female,32.0,Thrall,Ormen Lange,Normandy,Nidaros,,2.7,1,0,0
 5,Dag Sigurdsson,Male,26.0,Karl,Sjøulven,Lindisfarne,Nidaros,Leather,35.7,3,2,0
 6,Ketil Grimsson,Male,32.0,Karl,Bison,Iceland,Nidaros,None,30.0,0,0,1
 7,Liv Ulfsdóttir,Female,43.0,Karl,Ormen Lange,Iceland,Nidaros,Leather,2.3,3,1,1
